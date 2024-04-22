@@ -1,11 +1,11 @@
 @font-face {
     font-family: Poppinsligth;
-    src: url(../index/Poppins-Light.ttf);
+    src: url(../index/fonts/Poppins-Light.ttf);
 }
 
 @font-face {
     font-family: PoppinsBlack;
-    src: url(../index/Poppins-Black.ttf);
+    src: url(../index/fonts/Poppins-Black.ttf);
 }
 
 *{
@@ -29,7 +29,7 @@ h1 {
     transition: 0.3s;
     color: rgb(26, 26, 26);
     position: relative;
-    transition: 0.3s;
+    transition: 0.2s;
 }
 
 h1:hover {
